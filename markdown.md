@@ -22,4 +22,10 @@ exercises: 2
 
 Text and/or code for the exercise.
 
+:::::: solution
+
+Text and/or code for the solution
+
+::::::
+
 :::
