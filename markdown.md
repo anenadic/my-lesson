@@ -15,3 +15,11 @@ exercises: 2
 - Demonstrate how to include pieces of code, figures, and nested challenge blocks
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+::: challenge
+
+Text and/or code for the exercise.
+
+:::
