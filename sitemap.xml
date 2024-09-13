@@ -16,10 +16,16 @@
     <loc>https://carpentries.github.io/workbench-template-md/aio.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/baking-method.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/ingredients.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/01-introduction.html</loc>
@@ -37,10 +43,16 @@
     <loc>https://carpentries.github.io/workbench-template-md/instructor/aio.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/baking-method.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/ingredients.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html</loc>
@@ -53,6 +65,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/markdown.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/preparation.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
@@ -71,6 +86,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/markdown.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/preparation.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
