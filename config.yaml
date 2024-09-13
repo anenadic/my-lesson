@@ -59,8 +59,9 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
-- markdown.md
+- ingredients.md
+- preparation.md
+- baking-method.md
 
 # Information for Learners
 learners: 
