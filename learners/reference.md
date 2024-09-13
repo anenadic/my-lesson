@@ -4,5 +4,8 @@ title: 'Reference'
 
 ## Glossary
 
-This is a placeholder file. Please add content here. 
+term1: 
+definition
 
+term2: 
+definition
