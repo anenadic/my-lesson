@@ -8,6 +8,6 @@
 "episodes/preparation.md" "f64aeb82a4e94fe6c5c14fcfc5730127" "site/built/preparation.md" "2024-09-13"
 "episodes/baking-method.md" "9c561700339e315f5884753e131f7a14" "site/built/baking-method.md" "2024-09-13"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2023-03-16"
-"learners/reference.md" "1c7cc4e229304d9806a13f69ca1b8ba4" "site/built/reference.md" "2023-03-16"
+"learners/reference.md" "66ef8b1a70b43bad3acb4ea3bbf1d6e6" "site/built/reference.md" "2024-09-13"
 "learners/setup.md" "61568b36c8b96363218c9736f6aee03a" "site/built/setup.md" "2023-04-07"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-04-22"
